@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = garethburtondurham@gmail.com
+	name = Gareth Burton-Durham
